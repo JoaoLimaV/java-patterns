@@ -3,30 +3,30 @@ Projeto de aprendizagem das principais patterns aplicadas no java ministradas na
 Abaixo segue a lista de Patterns que foram feitas para aprendizagem 
 
 # Padrões Criacionais:
-Singleton
-Factory Method
-Abstract Factory
-Builder
-Prototype
+Singleton<br/>
+Factory Method<br/>
+Abstract Factory<br/>
+Builder<br/>
+Prototype<br/>
 
 # Padrões Estruturais:
-Adapter
-Bridge
-Composite
-Decorator
-Facade
-Flyweight
-Proxy
+Adapter<br/>
+Bridge<br/>
+Composite<br/>
+Decorator<br/>
+Facade<br/>
+Flyweight<br/>
+Proxy<br/>
 
 # Padrões Comportamentais:
-Chain of Responsibility
-Command
-Interpreter
-Iterator
-Mediator
-Memento
-Observer
-State
-Strategy
-Template Method
-Visitor
+Chain of Responsibility<br/>
+Command<br/>
+Interpreter<br/>
+Iterator<br/>
+Mediator<br/>
+Memento<br/>
+Observer<br/>
+State<br/>
+Strategy<br/>
+Template Method<br/>
+Visitor<br/>
